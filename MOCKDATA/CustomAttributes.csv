@@ -1,0 +1,101 @@
+customAtt_id,customAtt,project_id
+1,many instruments,964
+2,fire,966
+3,synth,999
+4,chords,622
+5,analog,42
+6,synth,176
+7,sample,826
+8,piano,466
+9,many instruments,803
+10,guitar,805
+11,bass,488
+12,synth stack,439
+13,many instruments,730
+14,analog,731
+15,bass,885
+16,vocal-chain,729
+17,chords,43
+18,drums,688
+19,drums,15
+20,bass,284
+21,synth stack,318
+22,808,191
+23,vocal-chain,835
+24,synth,902
+25,analog,941
+26,fire,53
+27,mid,203
+28,bass,807
+29,vocals,68
+30,synth stack,429
+31,vocal-chain,527
+32,mid,858
+33,piano,581
+34,piano,570
+35,fire,826
+36,publish,539
+37,mid,739
+38,vocal-chain,328
+39,many instruments,410
+40,presets,308
+41,drums,341
+42,drums,660
+43,sample,20
+44,mid,162
+45,vocals,761
+46,piano,432
+47,chords,625
+48,fire,556
+49,chords,100
+50,synth,961
+51,bass,888
+52,bass,561
+53,mid,49
+54,synth stack,196
+55,publish,630
+56,drums,517
+57,synth,578
+58,chords,821
+59,bass,278
+60,drums,622
+61,vocals,824
+62,mid,961
+63,vocals,156
+64,publish,351
+65,synth stack,262
+66,sample,544
+67,mid,949
+68,synth stack,223
+69,808,422
+70,presets,373
+71,vocal-chain,85
+72,bass,953
+73,drums,624
+74,mid,479
+75,piano,722
+76,synth stack,584
+77,presets,656
+78,sample,79
+79,sample,186
+80,fire,172
+81,synth stack,275
+82,synth stack,622
+83,many instruments,99
+84,808,577
+85,piano,875
+86,synth stack,563
+87,sample,524
+88,synth stack,247
+89,presets,705
+90,fire,329
+91,drums,276
+92,808,778
+93,synth,328
+94,fire,61
+95,vocal-chain,188
+96,publish,441
+97,analog,861
+98,guitar,986
+99,publish,258
+100,guitar,79
