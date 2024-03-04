@@ -1,7 +1,7 @@
 # TrackBranch
 Project 1 for CS3200
 
-> **TrackBranch**
+**TrackBranch**
 
 **TLDR:**
 TrackBranch is a centralized database for music producers to organize and easily locate past projects based on project attributes such as song keys and BPM. The program allows producers to streamline their workflow, save time, and enhance creativity by removing the need to waste time searching for projects. 
