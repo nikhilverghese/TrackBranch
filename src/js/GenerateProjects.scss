@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+.projectList{
+    position: absolute;
+    top: 20%;
+    left: 303px;
+    right: 20%;
+    overflow: auto;
+    margin-top:10px;
+    max-height: 800px;
+}
+
+#borders {
+    border: 0.02px solid #636363;
+    padding: 12px;
+    margin: 0px;
+    color: #6F6F6F;
+}
+
+#projects span {
+    display: inline-block;
+    width: 20%;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#name {
+    color: #FFFFFF;
+    padding-left: 30px;
+}
+#date {
+    padding-left: 115px;
+}
+
+#size {
+    padding-left: 152px;
+}
+
+#completion {
+    padding-left: 130px;
+}
+
+#headers {
+    border: 0.02px solid #636363;
+    padding: 3px;
+    margin: 0px;
+    color: #6F6F6F;
+    font-size: 18px;
+}
+
+#nameHeader {
+    padding-left:36px;
+}
+#dateHeader {
+    padding-left: 120px;
+}
+
+#sizeHeader {
+    padding-left: 152px;
+}
+
+#completionHeader {
+    padding-left: 127px;
+}
+
+h1 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#projectSize {
+    padding-bottom: 25px;
+    margin-left:20px;
+}
+
+#headersSpan span {
+    display: inline-block;
+    width: 20%;
+}

@@ -1,0 +1,29 @@
+.genres-expand {
+    background-color: #38373c;
+    height: 180px;
+    width: 160px;
+    position: absolute; 
+    top: 60px; /* Adjust top position as needed */
+    left: 10px; /* Adjust left position as needed */
+    z-index: 999;
+    border-radius: 10px;
+
+    /* Add any other necessary styles */
+}
+.buttons{
+    margin-left:10px;
+    margin-top: 10px;
+}
+
+.btn-genre {
+    background-color: transparent; 
+    color: #FFF; 
+    border:none;
+    display: flex;
+    font-weight: 500;
+    font-size:18px;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+}
+

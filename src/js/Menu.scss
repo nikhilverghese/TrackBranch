@@ -1,0 +1,219 @@
+.menuContainer {
+    position: fixed;
+    left: 0px;
+    top: 475px; 
+    transform: translateY(-50%);
+    border-right: 1px solid #636363;
+    padding: 12px;
+    margin: 0px;
+    color: #6F6F6F;
+    padding-top: 450px;
+    padding-bottom: 450px;
+    padding-left:291px;
+    overflow: hidden;
+    
+}
+
+#add.btn {
+    position: absolute; 
+    right: 35px;
+    margin-top: -390px;
+    width: 240px;
+    height: 70px;
+    border-radius: 13px;
+    background: #1F1F1F;
+    border-style: none;
+    align-items: center;
+    padding: 5px;
+    display:flex;
+    justify-content: center;
+}
+.btn-icon {
+    margin-right:10px;
+}
+#text {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 530;
+    line-height: normal;
+    margin-right: 10px;
+}
+
+.options {
+    position: absolute; 
+    right: 29px;
+    padding: 5px;
+}
+#home.btn {
+    border-radius: 13px;
+    background-color: transparent;
+    border-style: none;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin-top: -300px;
+}
+
+.menuContainer .btn:hover,
+.menuContainer .btn:focus {
+    background-color: #2D2D2D !important;
+}
+
+.home-icon {
+    margin-right: 9px;
+    padding-left:0px;
+    padding-bottom:5px;
+}
+#homeText {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    padding-left: 0px;
+    margin-right: 100px;
+}
+
+#export {
+    border-radius: 13px;
+    background-color: transparent;
+    border-style: none;
+    align-items: center;
+    display:flex;
+    width: 240px;
+    margin-top: 7px;
+    height:52px;
+}
+#exportText {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    padding-left: 0px;
+    margin-left: 16px;
+}
+.export-icon{
+    margin-left:5px;
+}
+
+.lib{
+    position: absolute; 
+    right: 173px;
+    top:310px
+}
+.header{
+    color: #8B8B8B;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#recOp {
+    margin-right: -170px;
+    width: 220px;
+    height: 50px;
+    border-radius: 13px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border-style: none;
+}
+
+#openedText{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    padding: 0px;
+}
+
+#star {
+    margin-right: -170px;
+    width: 110px;
+    height: 50px;
+    border-radius: 13px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border-style: none;
+}
+
+#starredText{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    padding-left: 0px;
+}
+
+.play {
+    position: absolute; 
+    right: 160px;
+    top:490px
+}
+
+
+#playlist {
+    margin-top: 0px;
+    margin-right: -170px;
+    width: 220px;
+    height: 50px;
+    border-radius: 13px;
+    display:flex;
+    align-items: center;
+    justify-content: left;
+    background-color: transparent;
+    border-style: none;
+}
+
+.playlistName{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    padding: 0px;
+}
+
+#addPlaylist:hover,
+#addPlaylist:focus {
+    background-color: transparent !important;
+}
+
+#addPlaylist {
+    margin-right: -180px;
+    margin-top: 5px;
+    width: 175px;
+    height: 30px;
+    border-radius: 13px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border-style: none;
+}
+
+
+#addPlaylistName{
+    color: #8B8B8B;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 5px;
+}
