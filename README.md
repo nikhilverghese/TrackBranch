@@ -18,3 +18,7 @@ Having produced over one hundred songs and created over two hundred projects in 
 -Locate Projects: Easily locate projects using filters<br />
 -Specific instruments: Highlight noteworthy instruments that appear frequently in tracks that can easily direct you to specific projects<br />
 -Manage multi-version exports: Easily locate and connect different exports of the same project<br />
+
+
+
+node modules: https://drive.google.com/file/d/1ewxVT--obxxIHhPML2oj7TFDCX8pCd1J/view?usp=drive_link
